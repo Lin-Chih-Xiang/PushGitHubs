@@ -22,7 +22,7 @@ namespace PushGitHub.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your page.";
+            ViewBag.Message = "Your pages.";
 
             return View();
         }

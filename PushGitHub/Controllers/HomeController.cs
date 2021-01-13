@@ -15,7 +15,7 @@ namespace PushGitHub.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Where IIII";
+            ViewBag.Message = "Where are you?";
 
             return View();
         }
